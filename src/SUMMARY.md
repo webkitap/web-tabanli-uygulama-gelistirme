@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [TEMEL KAVRAMLAR](temel-kavramlar.md)
