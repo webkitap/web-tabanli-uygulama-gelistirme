@@ -1,3 +1,4 @@
 # Summary
 
-- [İÇERİK](./chapter_1.md)
+- [TEMEL KAVRAMLAR](temel-kavramlar.md)
+
