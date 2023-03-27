@@ -3,6 +3,7 @@
 ## NELER ÖĞRENECEKSİNİZ?
 
 Bu öğrenme birimi ile;
+
 - Web sayfası ve web sitesi arasındaki farkları kavramayı,
 - Alan adı (domain) kavramını açıklamayı,
 - Alan adı uzantılarını sıralamayı,
