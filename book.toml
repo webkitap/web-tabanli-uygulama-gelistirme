@@ -1,6 +1,6 @@
 [book]
 authors = ["hmdgms"]
-language = "en"
+language = "tr"
 multilingual = false
 src = "src"
 title = "Web Tabanlı Uygulama Geliştirme"
