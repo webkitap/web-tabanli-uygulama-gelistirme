@@ -19,5 +19,3 @@ Bu öğrenme birimi ile;
 
 Biçimsellik, güncellik, içerik, işlevsellik, kullanılabilirlik, media query, mobil uyumluluk,
 responsive, SEO, tarayıcı uyumluluğu, tasarım, tipografi.
-
-
