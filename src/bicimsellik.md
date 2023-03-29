@@ -8,7 +8,7 @@ kurmak gerekir.
 
 Web sitesi içeriğinde yer alan bileşenlerin birbirleri ile uyumlu olmasını ve web sitesinin düzenli görünmesini sağlayan tasarımın en önemli unsurlarındandır. Doğru renk, font ve bileşen seçimi ile çok ilgi çekici bir web sitesi hazırlanabileceği gibi kötü bir tipografi de ziyaretçilerin ilgisinin azalmasına sebep olabilir. Tipografi, iyi hazırlanmış bir içeriği doğru şekilde sunmak için gereklidir. Web sitesindeki tüm bileşenlerin birbiri ile uyum içinde olması ve kaliteli bir tipografiye sahip olması oldukça önemlidir. Tipografi, tasarımı destekleyen bir unsurdur (Görsel 2.8).
 
-![](./images/Tipografi.png)
+![Tipografi](./web-tasarim-ilkeleri/Tipografi.png)
 
 ### 2.3.2. İçerik-Tasarım İlişkisi
 
@@ -24,8 +24,8 @@ Sitedeki tasarım ve içerik ilişkisi açısından önemli bir nokta da sitede 
 okunabilirliğin doğru belirlenmesidir. Sitede kullanılan logo, zemin, yazı ve diğer bileşenlerin renklerinin birbirleri ve içerik ile uyumlu, düzenli olması gerekir. Renk seçimi isteğe bağlı olmakla birlikte içeriği yansıtacak ve kullanıcıyı rahatsız etmeyecek tonlarda olmalıdır.\
 Renkler insanda farklı anlamlar ve psikolojik etkiler uyandırabilmektedir (Görsel 2.9). **Sıcak renkler** kırmızı, turuncu ve sarı gibi renklerdir. **Soğuk renkler** ise mor, mavi ve yeşil tonlarından oluşan renklerdir (Görsel 2.10). Daha fazla dikkat çeken sıcak renkler yakınlık, neşe gibi duygular uyandırırken; soğuk renkler uzaklık duygusu uyandırır. Bu nedenle renk seçimi bilinçli bir şekilde yapılmalıdır.
 
-![](./images/Renklerin%20psikolojik%20etkileri.png)
-![](./images/S%C4%B1cak%20ve%20so%C4%9Fuk%20renkler.png)
+![](./web-tasarim-ilkeleri/Renklerin%20psikolojik%20etkileri.png)
+![](./web-tasarim-ilkeleri/S%C4%B1cak%20ve%20so%C4%9Fuk%20renkler.png)
 
 
 
@@ -36,7 +36,7 @@ renk seçimi konusunda yardımcı olabilir. Renk şemalarına bakarak da renk uy
 Renk şeması içinde bir üçgen oluşturarak üç farklı renkle kombinasyon yapılabilir. Birbirine paralel iki veya üç renk seçilerek de uyum yakalanabilir. Eşkenar üçgen renk kombinasyonunu kullanarak bir ana, iki tamamlayıcı renk seçilebilir. Bir ana, iki tamamlayıcı ve bir vurgulayıcı olmak üzere
 dört farklı renkle de uyum yakalanabilir.
 
-![](./images/Renk%20kombinasyonlar%C4%B1.png)
+![](./web-tasarim-ilkeleri/Renk%20kombinasyonlar%C4%B1.png)
 
 ### Not
 
@@ -56,7 +56,7 @@ Bazı yazı tipleri diğer yazı tiplerine göre daha fazla okunabilirlik sağla
 zı tipleri (Görsel 2.13), **Serif (tırnaklı)** yazı tiplerine (Görsel 2.12) göre dijital ekranlardan daha ko-
 lay okunmaktadır. Bu nedenle tırnaklı yazı tiplerinin kullanımından kaçınılmalıdır.
 
-![](./images/Sans%20Serif-Serif%20yaz%C4%B1%20tipi%20%C3%B6rnekleri.png)
+![](./web-tasarim-ilkeleri/Sans%20Serif-Serif%20yaz%C4%B1%20tipi%20%C3%B6rnekleri.png)
 
 Font boyutunun doğru belirlenmesi tipolojide önemli bir faktördür. Tek bir font boyutu yerine iki veya üç farklı font boyutu kullanılmalıdır. 12x-14x büyüklüğündeki fontlar tercih edilmelidir. Başlık, alt başlıklar ve metinlerde kullanılacak yazı tipi ve yazı tipi boyutları, belli bir hiyerarşik düzende olmalıdır.\
 Satır uzunluğu, satır ve paragraf arası boşluklar da düzenli ve uyumlu olmalıdır. Satırlar veya
@@ -64,7 +64,7 @@ harfler arasındaki boşlukların gereğinden az veya fazla olmamasına özen g�
 sola veya iki yana yaslı olarak yazılmalı, sadece başlıklarda ortaya hizalı yazılar tercih edilmelidir.
 Tipografide doğru font seçimi, metinlerdeki boşluklar, büyük ve küçük harflerin yerinde ve doğru kullanılması da oldukça önemlidir. Font seçimi yapılırken kullanılacak fontların metnin vereceği mesajın önüne geçmemesine dikkat edilmelidir (Görsel 2.14).
 
-![](./images/Metinlerde%20okunabilirlik.png)
+![](./web-tasarim-ilkeleri/Metinlerde%20okunabilirlik.png)
 
 Hizalamada sola ya da her iki yana yaslama tercih edilebilir. İçeriğin uzun olduğu durumlarda
 ortalı hizalama kullanılmamasına dikkat edilmelidir.
@@ -78,7 +78,7 @@ ortalı hizalama kullanılmamasına dikkat edilmelidir.
 Görsel 2.15 ’de tablo şeklinde verilen okul web sitesi ana sayfa örneğini yönergeler
 doğrultusunda düzenleyiniz.
 
-![](./images/Okul%20web%20sitesi%20ana%20sayfa%20%C3%B6rne%C4%9Fi.png)
+![](./web-tasarim-ilkeleri/Okul%20web%20sitesi%20ana%20sayfa%20%C3%B6rne%C4%9Fi.png)
 
 1. Adım: Görsel 2.15’ deki tabloyu kelime işlemci programını kullanarak hazırlayınız.
 2. Adım: İnternetten indirdiğiniz Atatürk resmi ve Türk Bayrağı fotoğrafını istenilen alana ekleyiniz.

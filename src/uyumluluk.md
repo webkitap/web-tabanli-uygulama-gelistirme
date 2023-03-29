@@ -22,7 +22,7 @@ Hazırlanacak olan web sitelerinin masaüstü bilgisayarların yanı sıra table
 da uyumlu olması siteye daha çok erişim sağlanması açısından önemlidir. Bu uyumluluk duyarlı
 (responsive) tasarım olarak adlandırılır (Görsel 2.19).
 
-![](./images/Responsive%20tasar%C4%B1m.png)
+![](./web-tasarim-ilkeleri/Responsive%20tasar%C4%B1m.png)
 
 Duyarlı tasarım ile web sitesi içeriğinin, siteyi görüntülemek için kullanılan tüm cihazlarda en
 iyi ve en kolay şekilde kullanılabilmesi sağlanır. Duyarlı olarak hazırlanmış web sitesi veya mobil
@@ -40,7 +40,7 @@ Tasarımcıların dikkat etmesi gereken bir diğer nokta ise sitelerin arama mot
 dur. Arama motorları da duyarlı tasarımı dikkate almaktadır. Duyarlı tasarıma sahip olan siteler
 arama sonuçlarında daha ön sıralarda yer alacaktır (2.20).
 
-![](./images/SEO.png)
+![](./web-tasarim-ilkeleri/SEO.png)
 
 Web sitesi veya web uygulaması geliştirmek için kullanılan bazı teknolojiler her işletim sistemi
 ile uyumlu olmayabilir. Hazırlanan çalışmanın farklı işletim sistemi ile uyumluluk testinin de yapılması gerekir. Hazırlanan sitenin mobil cihazlarla uyumluluğunun kontrolü için farklı işletim sistemine sahip telefonlarda birebir test edilmesi de önemlidir.\

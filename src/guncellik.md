@@ -14,7 +14,7 @@ web siteleri görüntülendiği ekran boyutuyla uyumlu hâle gelecektir. Respons
 ekleyerek hem her cihaza uygun tasarımlar yapabilecek
 hem de çalışmanın birçok tarayıcıda sorunsuz çalışması sağlanacaktır.
 
-![](./images/Web%20teknoloji%20kullan%C4%B1m%C4%B1.png)
+![](./web-tasarim-ilkeleri/Web%20teknoloji%20kullan%C4%B1m%C4%B1.png)
 
 ## Araştırma
 
@@ -24,4 +24,4 @@ Yeni teknoloji ile hazırlanan web sitelerine, sitenin kullanıcı üzerindeki e
 süre geçirdiği gibi) analiz edilir ve analiz sonucunda web sitesinin güçlü ve zayıf yönleri
 de tespit edilerek sitenin daha güncel kalması sağlanır (Görsel 2.18).
 
-![](./images/Is%C4%B1%20haritas%C4%B1.png)
+![](./web-tasarim-ilkeleri/Is%C4%B1%20haritas%C4%B1.png)

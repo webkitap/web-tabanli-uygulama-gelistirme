@@ -21,7 +21,7 @@ Web sitesi tasarımı sırasında sitede yer alan bileşenler tasarımcının pl
 dan tutarlılık ve kullanım rahatlığı sağlayacaktır. Sitede yer alan bileşenlerin (menüler, logo, içerik,
 reklam vs.) konumu ziyaretçilerin alışkanlıkları doğrultusunda olmalıdır (Görsel 2.6, Görsel 2.7).
 
-![](./images/Anasayfa%20tasar%C4%B1m%20%C3%B6rne%C4%9Fi.png)
+![](./images/anasayfa-tasarim-ornegi.png)
 
 ### Not
 

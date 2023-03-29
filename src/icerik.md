@@ -3,7 +3,7 @@ Kurum, işletme veya bireyleri internet ortamında temsil eden web siteleri haz�
 edilmesi gereken birtakım ilkeler vardır (Görsel 2.1). Tasarım sürecinde bu ilkelerin göz önünde
 bulundurulması, hazırlanacak olan web sitesinin kalitesi, profesyonelliği ve site ziyaretçileri tarafından kullanışlılığı açısından oldukça önemlidir.
 
-![](./images/web-tasarim-ilkeleri.png)
+![](./web-tasarim-ilkeleri/web-tasarim-ilkeleri.png)
 
 Web tasarım ilkelerinin başında, web sitesinin temeli olan içerik oluşturma gelmektedir
 (Görsel 2.2). Web sitesinin en önemli amacı içeriği tüm dünyadaki ziyaretçiler ile paylaşmak olduğundan, tasarıma başlandığı andan itibaren
@@ -11,7 +11,7 @@ yapılması gereken ilk iş içerik planlaması olmalıdır. Web sitesi içeriğ
 İçeriklerin birbirine uygun grafik ve metinler ile
 harmanlanması sitenin kalitesi açısından önemlidir.
 
-![](./images/icerik.png)
+![](./web-tasarim-ilkeleri/icerik.png)
 
 İçerikler hedef kitleye hitap edecek şekilde hazırlanmalı, gereğinden fazla öge kullanılmamasına dikkat edilmelidir. Web sitesi oluşturulurken kullanılan dil de çok önemlidir. İçerikteki yazılar
 anlaşılır; net ve doğal bir dil kullanılarak oluşturulmalıdır.\
