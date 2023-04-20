@@ -1,10 +1,10 @@
 # ÖLÇME VE DEĞERLENDİRME
 
 **Aşağıdaki cümlelerin başında boş bırakılan parantezlere, cümlelerde verilen bilgiler doğru ise D, yanlış ise Y yazınız.**
-**1.** ( ) Web sitelerinde kullanılacak olan bileşenlerin neler olacağına ve sayfa içindeki ko numlarına tasarım aşamasında karar verilir.
-**2.** ( ) Bir web sitesinde kullanılan site haritası bağlantıları sayfanın yalnızca altbilgi kısmın da yer alır.
-**3.** ( ) Mor, mavi ve yeşil renkleri nötr renklerdir.
-**4.** ( ) Web siteleri için alan adları belirlenirken sitenin içeriğine uygun olması önemlidir.
+**1.** ( ) Web sitelerinde kullanılacak olan bileşenlerin neler olacağına ve sayfa içindeki ko numlarına tasarım aşamasında karar verilir.\
+**2.** ( ) Bir web sitesinde kullanılan site haritası bağlantıları sayfanın yalnızca altbilgi kısmın da yer alır.\
+**3.** ( ) Mor, mavi ve yeşil renkleri nötr renklerdir.\
+**4.** ( ) Web siteleri için alan adları belirlenirken sitenin içeriğine uygun olması önemlidir.\
 **5.** ( ) Responsive tasarımlar sayesinde web siteleri görüntülendikleri tüm cihazlarda sorun suz  alışırlar.
 
 **6. Aşağıdaki tablonun A sütununda verilen bilgilerin önündeki parantezlere, B sütunundaki kavramlardan doğru olana ait harfi yazarak eşleştiriniz.**
