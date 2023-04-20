@@ -11,8 +11,8 @@
   - Ünite 4. seviye H3 örneğin 1.1.1.1 Temel Kavramlar Alt Başlık
   - **İlk 2 seviye sayfalandırılacak diğerleri ilgili sayfaya dahil edilecek**
 
-  - Görseller
-    - Her ünite için resim klasörü olacak
-    - Görseller png formatında kaydedilecek
-    - Görsel isimlerinde tr karakterler ve boşluklar olmayacak
-    - Görsel ALT bilgileri eklenecek
+- Görseller
+  - Her ünite için resim klasörü olacak
+  - Görseller png formatında kaydedilecek
+  - Görsel isimlerinde tr karakterler ve boşluklar olmayacak
+  - Görsel ALT bilgileri eklenecek

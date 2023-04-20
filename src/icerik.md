@@ -1,9 +1,8 @@
-### 2.1. İçerik
-Kurum, işletme veya bireyleri internet ortamında temsil eden web siteleri hazırlanırken dikkat
-edilmesi gereken birtakım ilkeler vardır (Görsel 2.1). Tasarım sürecinde bu ilkelerin göz önünde
-bulundurulması, hazırlanacak olan web sitesinin kalitesi, profesyonelliği ve site ziyaretçileri tarafından kullanışlılığı açısından oldukça önemlidir.
+# 2.1. İçerik
 
-![](./web-tasarim-ilkeleri/web-tasarim-ilkeleri.png)
+Kurum, işletme veya bireyleri internet ortamında temsil eden web siteleri hazırlanırken dikkat edilmesi gereken birtakım ilkeler vardır (Görsel 2.1). Tasarım sürecinde bu ilkelerin göz önünde bulundurulması, hazırlanacak olan web sitesinin kalitesi, profesyonelliği ve site ziyaretçileri tarafından kullanışlılığı açısından oldukça önemlidir.
+
+![](./web-tasarim-ilkeleri/gorsel-2.1-web-tasarim-ilkeleri.png)
 
 Web tasarım ilkelerinin başında, web sitesinin temeli olan içerik oluşturma gelmektedir
 (Görsel 2.2). Web sitesinin en önemli amacı içeriği tüm dünyadaki ziyaretçiler ile paylaşmak olduğundan, tasarıma başlandığı andan itibaren
@@ -11,7 +10,7 @@ yapılması gereken ilk iş içerik planlaması olmalıdır. Web sitesi içeriğ
 İçeriklerin birbirine uygun grafik ve metinler ile
 harmanlanması sitenin kalitesi açısından önemlidir.
 
-![](./web-tasarim-ilkeleri/icerik.png)
+![](./web-tasarim-ilkeleri/gorsel-2.2-icerik.png)
 
 İçerikler hedef kitleye hitap edecek şekilde hazırlanmalı, gereğinden fazla öge kullanılmamasına dikkat edilmelidir. Web sitesi oluşturulurken kullanılan dil de çok önemlidir. İçerikteki yazılar
 anlaşılır; net ve doğal bir dil kullanılarak oluşturulmalıdır.\
@@ -23,6 +22,6 @@ renkler ile fontlar (yazı tipleri) dikkatli seçilmeli ve içerik sade bir şek
 yazı tipi tüm dijital cihazlarda ve farklı tarayıcılarda doğru çalışmalı ve kullanıcı dostu olmalıdır.
 Seçilen grafikler ve videolar sayfanın yüklenme hızını olumsuz etkilemeyecek formatlarda olmalıdır.
 
-### Not
->Arama Motoru Optimizasyonu (SEO), bir sitenin arama motorlarında daha iyi sıralamalar elde etmesi, daha iyi performans göstererek daha fazla nitelikli ziyaretçiye
-ulaşabilmesi amacıyla yapılan çalışmalardır.
+**Not**
+
+>Arama Motoru Optimizasyonu (SEO), bir sitenin arama motorlarında daha iyi sıralamalar elde etmesi, daha iyi performans göstererek daha fazla nitelikli ziyaretçiye ulaşabilmesi amacıyla yapılan çalışmalardır.

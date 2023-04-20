@@ -11,11 +11,9 @@ Bu öğrenme birimi ile;
 
 ### Hazırlık Çalışmaları
 
-1. Aynı özelliklere sahip iki işletme tanıtım amaçlı Web sitesi tasarımı yaparak yayınlamışlardır. Web sitelerinden birisinin ziyaretçileri oldukça fazla diğerinin ki ise
-çok azdır. Bu durum hangi nedenlerden kaynaklanmış olabilir?
+1. Aynı özelliklere sahip iki işletme tanıtım amaçlı Web sitesi tasarımı yaparak yayınlamışlardır. Web sitelerinden birisinin ziyaretçileri oldukça fazla diğerinin ki ise çok azdır. Bu durum hangi nedenlerden kaynaklanmış olabilir?
 2. Bir web sitesini ziyaret ettiğinizde gözünüze ilk çarpan olumlu ve olumsuz özellikler nelerdir?
 
 ### ANAHTAR KELİMELER
 
-Biçimsellik, güncellik, içerik, işlevsellik, kullanılabilirlik, media query, mobil uyumluluk,
-responsive, SEO, tarayıcı uyumluluğu, tasarım, tipografi.
+Biçimsellik, güncellik, içerik, işlevsellik, kullanılabilirlik, media query, mobil uyumluluk, responsive, SEO, tarayıcı uyumluluğu, tasarım, tipografi.
