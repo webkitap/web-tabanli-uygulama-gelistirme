@@ -9,4 +9,5 @@
     - [Güncellik](guncellik.md)
     - [Uygunluk ve Güvenilirlik](uygunluk-ve-guvenilirlik.md)
     - [Uyumluluk](uyumluluk.md)
+    - [ÖLÇME VE DEĞERLENDİRME](2olcme-ve-degerlendirme.md)
 
